@@ -1,16 +1,12 @@
-# zintlr_internship_task
+<div align="center">
+  <img src="assets/images/logo.png" alt="Magator Logo" width="320">
+  <h1>Zintlr Task App</h1>
+  <strong>A Social Media App With Random Posts</strong>
+</div>
+<br>
 
-A new Flutter project.
+# Installation
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
+    alt="Get it on GitHub"
+    height="80">](https://github.com/ShikharY10/zintlr_task_app/releases/latest)
